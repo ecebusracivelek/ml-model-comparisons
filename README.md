@@ -1,4 +1,4 @@
-# Machine Learning: CNN for Classification and Regression Model Comparison
+# Machine Learning: Classification and Regression
 
 This repository contains two supervised machine learning projects:
 
@@ -9,8 +9,8 @@ This repository contains two supervised machine learning projects:
 
 ## 📁 Contents
 
-- `cifar10_classification.py` — Convolutional Neural Network implementation for CIFAR-10 classification.
-- `housing_regression_models.py` — Regression model comparison using Scikit-learn (Linear, Ridge, Lasso, SVM, MLP, Decision Tree).
+- `cifar10_classification.ipynb` — Convolutional Neural Network implementation for CIFAR-10 classification.
+- `californiahousing_regression.ipynb` — Regression model comparison using Scikit-learn (Linear, Ridge, Lasso, SVM, MLP, Decision Tree).
 - `README.md` — Project overview and instructions.
 
 ---
